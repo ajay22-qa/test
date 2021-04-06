@@ -17,3 +17,7 @@ print ("eat pizza")
 else:
 print("do your homework")
 print("do your lunch")
+else
+thirsty=input("are u thirsty")
+if thirsty=="yes"
+print("drink water")
