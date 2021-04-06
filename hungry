@@ -2,14 +2,8 @@ Ajay@DESKTOP-B48QUD9 MINGW64 /d/Git_Video_Tutorials/test (main)
 $ ls
 README.md
 
-Ajay@DESKTOP-B48QUD9 MINGW64 /d/Git_Video_Tutorials/test (main)
-$ git status
-On branch main
-Your branch is up to date with 'origin/main'.
-
-nothing to commit, working tree clean
-
-Ajay@DESKTOP-B48QUD9 MINGW64 /d/Git_Video_Tutorials/test (main)
-$ ^C
-
-Ajay@DESKTOP-B48QUD9 MINGW64 /d/Git_Video_Tutorials/test (main)
+hungry=input("are you hungry?")
+if hungry=="yes"
+print ("eat samosa")
+else:
+print("do your homework")
