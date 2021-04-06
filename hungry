@@ -6,6 +6,7 @@ hungry=input("are you hungry?")
 if hungry=="yes"
 print ("eat samosa")
 print ("eat pizza")
+print ("eat pizza")
 else:
 print("do your homework")
 print("do your lunch")
@@ -16,5 +17,3 @@ print ("eat pizza")
 else:
 print("do your homework")
 print("do your lunch")
-ttttttttttttttttt
-yyyyyyyyyyyyyyyyyyyyyy
